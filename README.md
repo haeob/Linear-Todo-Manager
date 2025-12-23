@@ -1,7 +1,7 @@
 # Linear-Todo-Manager
 
 - 一个单 Python 脚本的线性 todo 管理工具 | A single Python script todo management tool
-
+- [EN](https://github.com/haeob/Linear-Todo-Manager/blob/main/README_EN.md)
 ## 特点
 - 线性的todo列表。（并始终展示当前todo） 
 - 有专注模式，和番茄钟🍅（倒计时和进度条）
