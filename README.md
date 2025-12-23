@@ -2,11 +2,18 @@
 - 一个单 Python 脚本的线性 todo 管理工具 | A single Python script todo management tool
 
 ## 特点
+- 有专注模式，和番茄钟🍅
+- 有可自定义激励语句。
+---
+- 使用简单。
 - 无需安装，直接运行单个脚本。
 - 自动创建文件并存储本地数据。
-
+  
 ## 使用
 > 需要安装 python。
 - 直接在CMD中运行脚本即可。
+
+## JPG展示
+
 
 
