@@ -2,7 +2,7 @@
 [EN](https://github.com/haeob/Linear-Todo-Manager/blob/main/README_EN.md)
 - 一个单 Python 脚本的线性 todo 管理工具 | A single Python script todo management tool
 
-## 原理&理论
+## 介绍/原理
 
 - 用线性的todo管理、明显的显示和专注模式，帮助你管理todo。
 
