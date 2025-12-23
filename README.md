@@ -3,7 +3,7 @@
 - 一个单 Python 脚本的线性 todo 管理工具 | A single Python script todo management tool
 
 ## 特点
-- 线性的todo列表。
+- 线性的todo列表。（并始终展示当前todo） 
 - 有专注模式，和番茄钟🍅
 - 有可自定义激励语句。
 ---
